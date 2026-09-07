@@ -1,0 +1,9 @@
+{
+  "name": "dot-js-kanban-example",
+  "version": "1.0.0",
+  "description": "Showcase Kanban Board application demonstrating dot-js front-end framework.",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}

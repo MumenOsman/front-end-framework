@@ -1,0 +1,19 @@
+{
+  "name": "dot-js",
+  "version": "1.0.0",
+  "description": "A lightweight, modern, zero-dependency front-end framework built from scratch in vanilla JavaScript.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "frontend-framework",
+    "virtual-dom",
+    "reactive-state",
+    "spa-router",
+    "event-delegation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
