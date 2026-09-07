@@ -182,7 +182,6 @@ body {
 .column.column-is-dragging {
   opacity: 0.4;
   border: 1px dashed #8590a2 !important;
-  pointer-events: none;
 }
 
 .column.drop-column-before {
@@ -352,7 +351,6 @@ body {
 .task-card.card-dragging {
   opacity: 0.4;
   border: 1px dashed #8590a2 !important;
-  pointer-events: none;
 }
 
 .task-card.drop-before {
